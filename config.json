@@ -1,0 +1,7 @@
+{
+  "output_dir": "./recordings",
+  "record_hotkey": "Ctrl+Shift+R",
+  "play_last_clip_hotkey": "Ctrl+Shift+P",
+  "sample_rate": 44100,
+  "channels": 2
+}
